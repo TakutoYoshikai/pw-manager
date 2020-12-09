@@ -12,7 +12,7 @@ You have to register password for using this.
 
 ### Requires
 * srm
-
+* openssl
 
 ```
 #保存領域作成
