@@ -1,13 +1,11 @@
 # pw-manager
 
 ### 使い方
-ご自身のプライベートリポジトリにコピーしてお使いください。
+You should use this after you copy this repository to your private repository because destination to save is github repository.
 
-アカウント情報は暗号化して保存します。
+Account information is encrypted.
 
-暗号を解除するためにマスターパスワードを設定します。
-
-githubに暗号化されたアカウント情報が保存されます。
+You have to register password for using this.
 
 ```
 #保存領域作成
