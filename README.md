@@ -1,6 +1,5 @@
 # pw-manager
 
-### 使い方
 You should use this after you copy this repository to your private repository because destination to save is github repository.
 
 Account information is encrypted.
@@ -14,25 +13,26 @@ You have to register password for using this.
 * srm
 * openssl
 
+### Usage
 ```
-#保存領域作成
+# initialize
 password new
 
-#マスターパスワード変更
+# change master password
 password change
 
-#全てのアカウント情報を表示
+# show all account information
 password show
 
-#githubにバックアップ
+# backup to github
 password save
 
-#アカウント追加
+# add account
 password register <service name>
 
-#メールアドレス取得
+# show email
 password <service name> -email
 
-#パスワード取得
+# show password
 password <service name> -pw
 ```
