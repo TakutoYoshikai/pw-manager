@@ -2,11 +2,8 @@
 
 This is a simple password manager on Ubuntu.
 
-You should use this after you copy this repository to your private repository because destination to save is github repository.
-
 Account information is encrypted.
 
-You have to register password for using this.
 
 ### Prerequisites
 * Ubuntu 20.04
@@ -16,6 +13,8 @@ You have to register password for using this.
 * openssl
 
 ### Usage
+1. You have to use this after you copy this repository to your private repository because destination to save is github repository.
+2. You have to register password for using this.
 ```
 # initialize
 password new
