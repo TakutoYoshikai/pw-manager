@@ -7,6 +7,12 @@ Account information is encrypted.
 
 You have to register password for using this.
 
+### Prerequisites
+* Ubuntu 20.04
+
+### Requires
+* srm
+
 ```
 #保存領域作成
 password new
