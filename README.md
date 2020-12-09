@@ -1,5 +1,7 @@
 # pw-manager
 
+This is a simple password manager on Ubuntu.
+
 You should use this after you copy this repository to your private repository because destination to save is github repository.
 
 Account information is encrypted.
